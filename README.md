@@ -17,6 +17,8 @@
 
 
 4.Two-Way System
+<img width="569" height="236" alt="image" src="https://github.com/user-attachments/assets/682a4f7d-ec4f-4a3c-b19a-b625052af176" />
+
 
 
 5.Challenge 1: Remote LED Control
